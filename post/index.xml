@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Adil Khwaja</title>
+    <title>Projects on Home</title>
     <link>https://zadilkhwaja.github.io/Adil_Portfolio/post/</link>
-    <description>Recent content in Projects on Adil Khwaja</description>
+    <description>Recent content in Projects on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 16 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zadilkhwaja.github.io/Adil_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +15,7 @@
       <guid>https://zadilkhwaja.github.io/Adil_Portfolio/post/chapter-1/</guid>
       <description>This is the prototype concept that my team presented in eMedha 2021 organised by BETiC- IIT Bombay. The project aims to find an alternative to Cadavers. Here we present one of the many ways to study Human Anatomy Virtually. The main highlight of this project is the inclusion of haptics. We won the the Innovative Solution Award of this hackathon.
 The concept mechanism is of 4 parts:
- Data Capturing using Radiology Data Processing using 3d Slicer Data Visualisation using 3d Builder or VR Glasses Haptic Feedback for virtual sense of touch.</description>
+ Data Capturing using Radiology, Data Processing using 3d Slicer, Data Visualisation using 3d Builder or VR Glasses, Haptic Feedback for virtual sense of touch.</description>
     </item>
     
     <item>
